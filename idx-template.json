@@ -1,13 +1,13 @@
 {
-    "name": "Planning with the Gemini API",
-    "description": "A sample web app that demonstrates how to experiment with Firebase and Gemini AI",
+    "name": "Template for an awesome AI app",
+    "description": "A sample web app that demonstrates how to experiment with Google Cloud and generative AI.",
     "categories": [
         "AI & ML",
         "Web",
         "Firebase"
     ],
-    "icon_image_url": "https://www.gstatic.com/monospace/240513/logo_firebase.svg",
-    "publisher": "Google LLC",
+    "icon_image_url": "https://res.cloudinary.com/dalqykxs4/image/upload/v1675335513/sketchnotes/IMG_0423.png",
+    "publisher": "SapientCoffee",
     "params": [
         {
             "id": "projectId",
