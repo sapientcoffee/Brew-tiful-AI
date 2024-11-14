@@ -1,4 +1,4 @@
-<a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fsapientcoffee%2FBrew-tiful-AI">
+<a href="https://idx.google.com/new?template=https%3A%2F%2Fgithub.com%2Fsapientcoffee%2FBrew-tiful-AI">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
